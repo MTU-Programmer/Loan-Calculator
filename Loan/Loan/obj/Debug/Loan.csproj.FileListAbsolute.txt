@@ -1,0 +1,10 @@
+C:\Users\IT Tralee\source\repos\Loan\Loan\bin\Debug\Loan.exe.config
+C:\Users\IT Tralee\source\repos\Loan\Loan\bin\Debug\Loan.exe
+C:\Users\IT Tralee\source\repos\Loan\Loan\bin\Debug\Loan.pdb
+C:\Users\IT Tralee\source\repos\Loan\Loan\obj\Debug\Loan.csprojAssemblyReference.cache
+C:\Users\IT Tralee\source\repos\Loan\Loan\obj\Debug\Loan.Form1.resources
+C:\Users\IT Tralee\source\repos\Loan\Loan\obj\Debug\Loan.Properties.Resources.resources
+C:\Users\IT Tralee\source\repos\Loan\Loan\obj\Debug\Loan.csproj.GenerateResource.cache
+C:\Users\IT Tralee\source\repos\Loan\Loan\obj\Debug\Loan.csproj.CoreCompileInputs.cache
+C:\Users\IT Tralee\source\repos\Loan\Loan\obj\Debug\Loan.exe
+C:\Users\IT Tralee\source\repos\Loan\Loan\obj\Debug\Loan.pdb
