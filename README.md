@@ -1,5 +1,6 @@
 # Loan-Calculator
 
+![Alt text](loan_calculator.jpg?raw=true "Loan Calculator")
 This is a flexible loan Amortization calculator.
 
 It can solve many kinds of loan calculation problems.
